@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B906CAA-A438-4BBC-8EA5-577476ED6B95}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\camil\\onedrive\\desktop\\capapresentacioncamiloblanco3robp (1)\\capapresentacion\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B906CAA-A438-4BBC-8EA5-577476ED6B95}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B906CAA-A438-4BBC-8EA5-577476ED6B95}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B906CAA-A438-4BBC-8EA5-577476ED6B95}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CB902B-B7F9-479E-8CEE-25D16367E325}|Entidades\\Entidades.csproj|C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\entidades\\vehiculosgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CB902B-B7F9-479E-8CEE-25D16367E325}|Entidades\\Entidades.csproj|solutionrelative:entidades\\vehiculosgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE815F-F446-4055-B8F8-B7AACDCD31CE}|capaLogica\\capaLogica.csproj|C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capalogica\\cl_vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE815F-F446-4055-B8F8-B7AACDCD31CE}|capaLogica\\capaLogica.csproj|solutionrelative:capalogica\\cl_vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52414CC0-FD2B-4B77-AD6A-60F997AF2ECD}|capaDatos\\capaDatos.csproj|C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capadatos\\cd_vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52414CC0-FD2B-4B77-AD6A-60F997AF2ECD}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\cd_vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52414CC0-FD2B-4B77-AD6A-60F997AF2ECD}|capaDatos\\capaDatos.csproj|C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52414CC0-FD2B-4B77-AD6A-60F997AF2ECD}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaPresentacion\\Form1.cs",
+              "RelativeToolTip": "capaPresentacion\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:11.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD_Vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaDatos\\CD_Vehiculos.cs",
+              "RelativeDocumentMoniker": "capaDatos\\CD_Vehiculos.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaDatos\\CD_Vehiculos.cs",
+              "RelativeToolTip": "capaDatos\\CD_Vehiculos.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwF0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:11.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CL_Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaLogica\\CL_Vehiculo.cs",
+              "RelativeDocumentMoniker": "capaLogica\\CL_Vehiculo.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaLogica\\CL_Vehiculo.cs",
+              "RelativeToolTip": "capaLogica\\CL_Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:11.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "capaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaDatos\\Conexion.cs",
+              "RelativeToolTip": "capaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:11.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculosGS.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\Entidades\\VehiculosGS.cs",
+              "RelativeDocumentMoniker": "Entidades\\VehiculosGS.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\Entidades\\VehiculosGS.cs",
+              "RelativeToolTip": "Entidades\\VehiculosGS.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:11.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\capaPresentacion\\capaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\pc\\source\\repos\\capaPresentacion\\capaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T22:08:11.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

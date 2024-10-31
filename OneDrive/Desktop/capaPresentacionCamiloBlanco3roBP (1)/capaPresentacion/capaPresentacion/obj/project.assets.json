@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "capaDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/capaDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/capaDatos.dll": {}
+        }
+      },
+      "capaLogica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "capaDatos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/capaLogica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/capaLogica.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capaDatos/1.0.0": {
+      "type": "project",
+      "path": "../capaDatos/capaDatos.csproj",
+      "msbuildProject": "../capaDatos/capaDatos.csproj"
+    },
+    "capaLogica/1.0.0": {
+      "type": "project",
+      "path": "../capaLogica/capaLogica.csproj",
+      "msbuildProject": "../capaLogica/capaLogica.csproj"
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Entidades >= 1.0.0",
+      "capaLogica >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\camil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaPresentacion\\capaPresentacion.csproj",
+      "projectName": "capaPresentacion",
+      "projectPath": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaPresentacion\\capaPresentacion.csproj",
+      "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaPresentacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaLogica\\capaLogica.csproj": {
+              "projectPath": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaLogica\\capaLogica.csproj"
+            },
+            "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\Entidades\\Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

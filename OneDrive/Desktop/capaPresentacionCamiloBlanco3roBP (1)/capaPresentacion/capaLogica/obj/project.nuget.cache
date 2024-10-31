@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qwtEUm37R5jw9PJ8hbfdc4Xl3xb39K17f3FvNZTo59O6+Jm6HHLptKVIQJivXe0OkZRIFhkPmHEI2RhToFTTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camil\\OneDrive\\Desktop\\capaPresentacionCamiloBlanco3roBP (1)\\capaPresentacion\\capaLogica\\capaLogica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
